@@ -2,7 +2,6 @@
 &nbsp;
 
 <p display="flex" align="center" justify="center">
-    <img src="https://github.com/Ktn-mariam/FarmFresh-Finder/assets/113761859/148e7c5a-ad43-480c-bb06-725f77eae9df" alt="farmfresh-logo" />
     <h3 align="center">Find Farm Fresh</h3>
     <div display="flex" align="center">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="farmfresh-logo" />
@@ -21,10 +20,6 @@
     <em>Connecting consumers with local farmers for a direct and fresh produce experience</em> 🧑‍🌾
     <br/>
     <a href="">View Demo</a>
-    ·
-    <a href="https://github.com/Ktn-mariam/Find-FarmFresh/issues/new?template=Blank+issue">Report Bug</a>
-    ·
-    <a href="https://github.com/Ktn-mariam/Find-FarmFresh/issues/new?template=Blank+issue">Request Feature</a>
     <br/>
 </p>
 
@@ -96,8 +91,8 @@ The v22.12.0 version of Node is required for the installation and building of th
 ## ⚙️ Installation
 1. Clone this repository by running the following command in your terminal:
 ```
-git clone https://github.com/Ktn-mariam/Find-FarmFresh.git
-cd Find-FarmFresh
+git clone <your-repo-url>
+cd <project-directory>
 ```
 2. Run the following command in the frontend side to install the dependencies:
 ```
